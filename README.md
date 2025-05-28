@@ -50,7 +50,7 @@ Alex est pensée pour :
 
 ---
 
-## 🖤 Projet by [ton pseudo ou lien](https://github.com/tonprofil)
+## 🖤 Projet by (https://github.com/fxfp33/AlexOS-Muse-Tentation-v1.0/tree/main)
 
 ---
 
